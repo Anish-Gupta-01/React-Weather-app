@@ -1,0 +1,15 @@
+# Use LF for all text files
+* text=auto
+
+# Explicitly specify line endings for certain file types
+*.sh text eol=lf
+*.bat text eol=crlf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
